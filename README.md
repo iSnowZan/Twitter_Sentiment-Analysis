@@ -1,1 +1,2 @@
 # Twitter_Sentiment-Analysis
+This project classifies positive and negative sentiment words .Train data-set is feed into the model to learn what are positive sentiment words and negative words .  And then , we can test on new data-set to check the same . This is particularly useful when the computer has to understand what emotion does a sentence carry . It is used in review system of movies , to check through social media to stop any person from spreading hate or violence . 
